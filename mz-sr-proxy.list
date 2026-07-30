@@ -6,3 +6,6 @@ DOMAIN,cloudadvisor.amocrm.ru
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,grok.com
